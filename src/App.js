@@ -49,17 +49,17 @@ function App() {
                   <NavLink to="/" >Home</NavLink>
                   </div>
                   
-                  <li>
+                  <div>
                   <NavLink to="/support" >Support</NavLink>
-                  </li>
+                  </div>
 
-                  <li>
+                  <div>
                   <NavLink to="/about" >About</NavLink>
-                  </li>
+                  </div>
                   
-                  <li>
+                  <div>
                   <NavLink to="/lab" >Labs</NavLink>
-                  </li>
+                  </div>
             </ul>
     </nav>
            
