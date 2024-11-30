@@ -45,9 +45,9 @@ function App() {
 
     <nav>
              <ul>
-                  <li>
+                  <div>
                   <NavLink to="/" >Home</NavLink>
-                  </li>
+                  </div>
                   
                   <li>
                   <NavLink to="/support" >Support</NavLink>
